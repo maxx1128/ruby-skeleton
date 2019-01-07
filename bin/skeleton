@@ -2,5 +2,5 @@
 
 require_relative '../lib/skeleton.rb'
 
-skeleton = ExampleClass.new()
-p skeleton.give_true
+example = ExampleClass.new()
+p example.give_true
