@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/skeleton.rb'
+
+skeleton = ExampleClass.new()
+p skeleton.give_true
