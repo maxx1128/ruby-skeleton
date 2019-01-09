@@ -14,6 +14,6 @@ Gem::Specification.new do |spec|
 
   spec.files         = ['lib/skeleton.rb']
   spec.executables   = ['bin/skeleton']
-  spec.test_files    = ['tests/test_skeleton.rb']
+  spec.test_files    = ['spec']
   spec.require_paths = ["lib"]
 end

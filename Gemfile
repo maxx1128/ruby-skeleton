@@ -1,1 +1,3 @@
-gem 'test-unit'
+source "https://rubygems.org"
+
+gem 'rspec'
