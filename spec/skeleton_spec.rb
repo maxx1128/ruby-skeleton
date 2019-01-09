@@ -1,4 +1,4 @@
-require_relative '../lib/example_class.rb'
+require 'example_class.rb'
 
 describe ExampleClass do
   before :each do
